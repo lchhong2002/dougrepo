@@ -58,7 +58,7 @@ After the terminal indicates that the application has started successfully, loca
 
 Click to access the Asset Manager application.
 
-## Phase 5: Start Application Modernization (AI Involvement)
+## Phase 5: Start Application Modernization (By Copilot App Modernization extension- AI agent)
 You are now ready to use GitHub Copilot App Modernization to refactor the codebase!
 Click the GitHub Copilot App Modernization icon in the left sidebar, then click Start Assessment to begin evaluating the repository.
 
