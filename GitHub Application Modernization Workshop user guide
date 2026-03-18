@@ -1,0 +1,20 @@
+GitHub Application Modernization Workshop user guide
+
+To avoid challenges caused by differences in individual local computer environments, we will use GitHub Codespaces throughout the entire process.
+
+🛠️ Phase 1: Preparation (Required Before the Lab)
+Before starting the environment, please make sure you have completed the following setup:
+GitHub Account Permissions
+•	Ensure your account has GitHub Copilot Business, Copilot Pro, or higher-level access.
+Local Software Installation
+•	Install Visual Studio Code.
+•	In the VS Code Extensions Marketplace, search for and install the GitHub Codespaces extension.
+Network Environment
+•	It is recommended to maintain a stable network connection during the lab.
+•	If you experience disconnections while using Wi Fi, please try switching to a mobile hotspot.
+🏗️ Phase 2: Launch the Lab Environment
+We will start a standardized cloud-based container environment that comes preinstalled with JDK 8, Maven 3.6+, and Docker.
+•	Fork the repository
+https://github.com/yym2020/Copilot-App-Modernization-Java-Lab
+to your GitHub account. Do not change the repository name.
+•	Click the <> Code button and switch to the Codespaces tab.
