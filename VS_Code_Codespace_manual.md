@@ -71,7 +71,7 @@ Upgrade Java Runtime & Framework (approximately 10–15 minutes)
 
 After the upgrade is complete, review the upgrade report:
 
-## Phase 5: Customized Assessment Report
+## Phase 6: Customized Assessment Report- OPTIONAL ITEM
 The data files for the App Modernization assessment report are saved by default in the following directory:
 ./.github/appmod/appcat
 
